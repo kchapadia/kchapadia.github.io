@@ -7,14 +7,10 @@ I am Kavi Chapadia, an aspiring <span id="k">Data Scientist</span>! <!-- sjkfhsk
 <p>I'm currently a Data Management Engineer working at Pearson Education, while also pursuing a Bachelor’s in Computer Science at the University of Central Florida.</p>
 <p>I consider myself to be a highly analytical and data driven professional with excellent problem-solving abilities. I also have a strong background and expertise in statistics, data science, and programming.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p>I have experience using programming languages such as:
-<span id="lang">* [Python]</span>
-<span id="lang">* [SQL]</span>
-<span id="lang">* [Java]</span>
-<span id="lang">* [C]</span>
-</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> You can find my links here: <a id="github" href="https://github.com/kchapadia"> | GitHub |</a> <a id="linkedin" href="https://www.linkedin.com/in/kchapadia/"> | LinkedIn |</a></p>
+<span id="lang"> * [Python] <br> * [SQL} <br> * [Java] <br> * [C]</span>
+<p> <!-- slightdelayhere--> You can find my links here: <a id="github" href="https://github.com/kchapadia"> | GitHub |</a> <a id="linkedin" href="https://www.linkedin.com/in/kchapadia/"> | LinkedIn |</a></p>
 
-<!-- slightdelayhere--> If you need to contact me, feel free to reach me at <!-- longlonglongcomment --><a id="email" href="kchapadia@gmail.com">kchapadia@gmail.com</a>.
+<!-- slightdelayhere--> If you need to contact me, feel free to reach me at <!-- longlonglongcomment --><a id="email" href="mailto:kchapadia@gmail.com">kchapadia@gmail.com</a>.
 
 <p>Goodbye now!</p>
 <span id="a">kavi@chapadia</span>:<span id="b">~</span><span id="c">%</span> exit 
