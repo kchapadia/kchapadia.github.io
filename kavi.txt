@@ -2,7 +2,7 @@
 <span id="a">kavi@chapadia</span>:<span id="b">~</span><span id="c">%</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->kavi.txt<br/><br/>
 Hello World!
 
-Hi! I am Kavi Chapadia, an aspiring <span id="k">Data Scientist</span>! <!-- sjkfhskjf -->
+Hi! I am Kavi Chapadia, an aspiring <span id="k">Data Professional</span>! <!-- sjkfhskjf -->
 
 <p>I'm currently a Data Management Engineer and a recent Computer Science graduate from the University of Central Florida.</p>
 <p>I consider myself to be a highly analytical and data driven professional with excellent problem-solving abilities. I also have a strong background and expertise in statistics, data science, and programming.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
@@ -13,4 +13,4 @@ Hi! I am Kavi Chapadia, an aspiring <span id="k">Data Scientist</span>! <!-- sjk
 <!-- slightdelayhere--> If you need to reach me, feel free to contact me at <!-- longlonglongcomment --><a id="email" href="mailto:kchapadia@gmail.com">kchapadia@gmail.com</a>.
 
 <p>Goodbye now!</p>
-<span id="a">kavi@chapadia</span>:<span id="b">~</span><span id="c">%</span> exit 
+<span id="a">kavi@chapadia</span>:<span id="b">~</span><span id="c">%</span> exit
