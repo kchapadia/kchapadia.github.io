@@ -4,7 +4,7 @@ Hello World!
 
 Hi! I am Kavi Chapadia, an aspiring <span id="k">Data Professional</span>! <!-- sjkfhskjf -->
 
-<p>I'm currently a Data Management Engineer and a recent Computer Science graduate from the University of Central Florida.</p>
+<p>I'm currently a Consultant specializing in Data and a recent Computer Science graduate from the University of Central Florida.</p>
 <p>I consider myself to be a highly analytical and data driven professional with excellent problem-solving abilities. I also have a strong background and expertise in statistics, data science, and programming.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p>I have experience using programming languages such as:
 <span id="lang"> * [Python] <br> * [SQL} <br> * [Java] <br> * [C]</span>
